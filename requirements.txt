@@ -1,0 +1,13 @@
+os
+sys
+time
+winreg
+subprocess
+ctypes
+threading
+socket
+uuid
+json
+requests
+pynput
+Pillow

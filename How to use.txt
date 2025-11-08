@@ -1,0 +1,5 @@
+to convert exe == pyinstaller --onefile --noconsole winservice.py (if dont work)
+use this== "C:\Program Files\Python36\python.exe" -m PyInstaller --onefile --noconsole wincervice.py(if dont work)
+use this== python -m PyInstaller --onefile --noconsole winservice.py
+Startup Menu -file located at == HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
+file moved to == %APPDATA%\Microsoft\Windows\Themes

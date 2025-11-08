@@ -1,0 +1,52 @@
+EDUCATIONAL ETHICAL USE LICENSE (LAB-ONLY)
+
+Version 1.0 — 2025-11-08
+
+Copyright (c) 2025 Hacktech Academy
+
+Preamble
+This repository contains code and materials created for educational, defensive research, and demonstration purposes only. By using, copying, modifying, or distributing any part of this repository, you agree to the terms and conditions of this license.
+
+Definitions
+• "Repository" means the code, binaries, documentation, and other materials distributed under this license.
+• "User" means any person or organization that receives or uses the Repository.
+• "Functional payload" means any executable code, binary, or package that performs live data collection (e.g., keylogging, screenshot capture, location tracking, remote exfiltration, persistence) on a target device.
+
+Grant of Rights
+Subject to the restrictions below, the copyright holder grants Users a non-exclusive, worldwide, royalty-free license to:
+
+1. Use, copy, and modify the non-functional portions of the Repository for educational, research, and defensive purposes on devices owned by the User.
+2. Share modifications and derivative works only in source form and only if those derivatives comply with this license.
+
+Mandatory Restrictions
+The following activities are strictly prohibited under this license:
+A. Deployment: Users MUST NOT deploy, install, or run any Functional payload from this Repository on any device that they do not own, control, or have explicit, written consent to test. Written consent must identify the tested device, the consenting party, the scope of allowed activity, and the period of consent.
+B. Distribution of Functional Payloads: Users MAY NOT distribute compiled binaries, APKs, installers, or other executable artifacts that reproduce the functional behavior of spyware or unauthorized monitoring. Distribution is allowed only for sanitized, clearly labeled simulator binaries that cannot perform real data collection.
+C. Malicious Use: Users must not use Repository content to invade privacy, commit fraud, harass, surveil, or otherwise commit unlawful acts.
+D. Stealth/Operationalization Guidance: This Repository must not be used to create stealthy, persistent, or covert monitoring tools intended for surreptitious deployment.
+
+Conditions When Sharing or Publishing
+
+1. All distributed source code must include this license as-is and a clear, prominent disclaimer describing permitted uses and the requirement for explicit written consent.
+2. If a User publishes academic or public-facing material derived from this Repository, the User must: (a) remove or sanitize any real sensitive data, (b) avoid step-by-step deployment instructions that would enable misuse, and (c) include a prominent ethical and legal disclaimer.
+
+Disclaimer of Warranty
+THE REPOSITORY IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+Limitation of Liability
+IN NO EVENT WILL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE REPOSITORY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+Termination
+This license and the rights granted terminate automatically if a User violates any Mandatory Restriction (A–D). Upon termination, the User must cease distribution and use, and destroy all copies of the Repository and any functional artifacts derived from it.
+
+Requests for Exceptions
+To request permission for uses that would otherwise be prohibited (for example, controlled testing on third-party devices with documented consent, or publishing a compiled demo for accredited educational programs), contact the copyright holder at: [[contact@hacktechacademy.com](mailto:contact@hacktechacademy.com)]. The copyright holder may grant limited, written exceptions at their sole discretion.
+
+Governing Law
+This license is governed by the laws of the jurisdiction in which the copyright holder resides. If any provision is held to be unenforceable, the remainder of the license remains in effect.
+
+Attribution
+If you use or derive work from this Repository (in compliance with this license), please include an attribution line such as:
+“Contains code derived from Hacktech Academy — used under the Educational Ethical Use License (Lab-Only).”
+
+— End of License —
